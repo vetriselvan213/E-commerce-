@@ -1,0 +1,44 @@
+.header{
+   background-color: #710117;
+    height: 60px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    position: relative;
+}
+
+.head{
+    margin-top:0 ;
+}
+
+h1{
+    margin: 0;
+    cursor: pointer;
+    padding: 2px;
+    margin-bottom:9%;
+}
+
+h1:hover{
+    border: 2px solid #fff;
+}
+
+.w-400{
+    max-width:200px ;
+}
+
+.w-400 p{
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.head-right a{
+    color: #fff;
+}
+
+.head-right p:hover{
+    cursor: pointer;
+}
+
+#cart{
+    font-size: 24px;
+}
