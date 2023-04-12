@@ -18,7 +18,7 @@ class Header extends Component {
       <div className="header">
         <div className="content head flex-jcsb-aic">
           <div>
-            <h1>E-commerce</h1>
+            <h1>e-commerce</h1>
           </div>
           <div className="w-400 head-right flex-jcsb-aic">
             <p><i onClick={() => {this.cartshow("show")}} className="fa-solid fa-cart-shopping"></i></p>
